@@ -6,7 +6,7 @@
 
 ![Red Team](https://img.shields.io/badge/RED_TEAM-LEARNING-a41e36?style=for-the-badge) ![Blue Team](https://img.shields.io/badge/BLUE_TEAM-LEARNING-1e40af?style=for-the-badge) ![Profile Views](https://komarev.com/ghpvc/?username=HoangQuocHuyDev&color=334155&style=for-the-badge)
 
-<img src="./assets/scan.svg" width="100%" alt="Animated ASCII skull scanning terminal" />
+<img src="./assets/anonymous-scanner.svg" width="100%" alt="Animated ASCII skull scanning terminal" />
 
 </div>
 
@@ -76,12 +76,13 @@ I'm a **Cybersecurity student** exploring information security, networking, Linu
 | [🌱 Smart Irrigation](https://github.com/HoangQuocHuyDev/tuoi_cay_ai) | ESP32 sensors, MLP and fuzzy-logic irrigation decisions | Python, ESP32, ML |
 | [📦 Inventory Management](https://github.com/23050093-HoangQuocHuy/quanlykho-fastapi) | Stock, orders, suppliers and inventory tracking | FastAPI, SQLAlchemy, PostgreSQL |
 
-*Academic and learning projects. Check links after any repository ownership transfers.*
+*Academic and learning projects.*
 
-## 🦠 Cyber Threat Scanner
+## ⚡ HACKER // Snake LED Animation
 
-<div align="center"><img src="./assets/threat-scanner.svg" width="100%" alt="Animated simulated malware threat scanner with virus specimen, radar sweep, and Red Blue Team analysis" /></div>
-
+<div align="center">
+  <img src="./assets/hacker-snake-led.svg" width="100%" alt="Animated HACKER red neon glitch text" />
+</div>
 
 ## 📊 GitHub Statistics
 
