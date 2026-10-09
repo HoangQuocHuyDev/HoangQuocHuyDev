@@ -82,7 +82,6 @@ I'm a **Cybersecurity student** exploring information security, networking, Linu
 
 <div align="center"><img src="./assets/threat-scanner.svg" width="100%" alt="Animated simulated malware threat scanner with virus specimen, radar sweep, and Red Blue Team analysis" /></div>
 
-*Animated educational visualization only — not a real malware scan or live threat detection.*
 
 ## 📊 GitHub Statistics
 
