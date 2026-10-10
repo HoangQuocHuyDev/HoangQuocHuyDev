@@ -39,6 +39,7 @@ I'm a **Cybersecurity student** exploring information security, networking, Linu
 
 <div align="center">
 
+
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-172554?style=for-the-badge) ![Metasploit](https://img.shields.io/badge/Metasploit-9F1239?style=for-the-badge) ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
 
 </div>
