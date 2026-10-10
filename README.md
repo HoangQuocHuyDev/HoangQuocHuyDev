@@ -78,8 +78,6 @@ I'm a **Cybersecurity student** exploring information security, networking, Linu
 
 *Academic and learning projects.*
 
-## ⚡ HACKER // Snake LED Animation
-
 <div align="center">
   <img src="./assets/hacker-snake-led.svg" width="100%" alt="Animated HACKER red neon glitch text" />
 </div>
