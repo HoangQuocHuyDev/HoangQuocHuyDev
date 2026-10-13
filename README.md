@@ -1,5 +1,6 @@
 <div align="center">
 
+
 <img src="./assets/banner.svg" width="100%" alt="Animated Red and Blue Team banner" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=900&color=FF6077&center=true&vCenter=true&width=850&lines=Exploring+Cybersecurity+and+Network+Security;Red+Team+Mindset+%7C+Blue+Team+Defense;Building+Software+with+Python+and+AI;Always+Learning.+Always+Building." alt="Animated introduction" />
